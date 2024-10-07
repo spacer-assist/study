@@ -5,7 +5,7 @@ resources:
   - ../../base
 
 images:
-  - name: eduazureregistry.azurecr.io/frontend-vue
+  - name: regassist.azurecr.io/frontend-vue
     newTag: {{TAG}}
 
 commonLabels:
